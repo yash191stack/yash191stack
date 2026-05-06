@@ -1,45 +1,143 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">Full Stack Developer • BTech Student • Backend & AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%2B+Django+Learner;Building+AI-Powered+Projects;DSA+%7C+Backend+Development+%7C+Open+Source" />
-</p>
+# ⚡ Yash Sharma ⚡
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+%2B+Django+Developer;Backend+Engineering+Learner;Building+AI-Powered+Projects;DSA+%7C+Web+Development+%7C+Open+Source" />
 
-# 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 BTech Student at GLA University
-- 💻 Full Stack Web Developer
-- 🌱 Exploring scalable backend systems
-- ⚡ Building real-world AI-integrated projects
-- 🧠 Learning DSA, System Design & APIs
-- 🚀 Passionate about impactful tech
-
-<br><br>
+</div>
 
 ---
-
-# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+## 🌌 About Me
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</div>
 
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+```yaml
+Name: Yash Sharma
+Role: Full Stack Developer
+Education: BTech @ GLA University
+Focus: MERN Stack + Django
+Learning: DSA • Backend • APIs • System Design
+Goal: Build impactful AI-integrated applications
+```
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<br><br><br>
+
+---
+
+# 🚀 Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
+<b>Bootstrap</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React.js</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<b>Express.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
+<b>Django</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+<b>SQLite</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<b>C</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -47,79 +145,98 @@
 
 # 🌟 Featured Projects
 
-## 🚀 Startup Idea Validator
-AI-powered platform that analyzes startup ideas using:
-- Feasibility scoring
-- AI-generated insights
-- Dynamic result dashboard
-- Modern responsive UI
+<div align="center">
+
+| 🚀 Project | ✨ Description |
+|---|---|
+| **Startup Idea Validator** | AI-powered startup validation platform with feasibility analysis and smart insights |
+| **Peace Messages & Support Wall** | Anonymous community support platform with beautiful UI and CRUD functionality |
+| **ScanSur** | Smart product scanner for chemical analysis, side-effect tracking & product safety awareness |
+
+</div>
 
 ---
 
-## 💙 Peace Messages & Support Wall
-Community platform featuring:
-- Anonymous message sharing
-- CRUD functionality
-- Beautiful animations
-- Django backend integration
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash191stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash191stack&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash191stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-## 🧪 ScanSur
-Smart product analysis & awareness platform:
-- Chemical ingredient scanning
-- Side effect tracking
-- AI-assisted product understanding
-- User safety focused system
+# 🏆 Achievement Zone
 
----
+<div align="center">
 
-# 📈 GitHub Analytics
+<img src="https://github-profile-trophy.vercel.app/?username=yash191stack&theme=algolia&no-frame=true&row=1&column=7"/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash191stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash191stack&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash191stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash191stack&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/yash191stack">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yashsharma191">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# ⚡ Profile Views
+# 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash191stack&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yash191stack&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# ✨ Quote
+# ⚡ Developer Mindset
 
-<p align="center">
-  <i>"Build. Learn. Improve. Repeat."</i>
-</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 “Build. Break. Learn. Improve. Repeat.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
