@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 I'm a **Full Stack Developer** pursuing my degree at **GLA University**. My passion lies in crafting scalable backend architectures and integrating AI into real-world applications. I thrive on solving complex problems through Data Structures and System Design.
 
-*   🔭 **Current Project:** Refining **ScanSure** (Smart Product Safety Analysis).
 *   🧠 **Deep Diving:** Advanced DSA, System Design, and Scalable APIs.
 *   ⚡ **Motto:** "Write code that tells a story, and build systems that last."
 *   🧪 **Exploring:** Large Language Models (LLMs) and Image Generation AI.
